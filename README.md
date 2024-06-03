@@ -32,7 +32,7 @@ To get started, follow these steps:
 1. Clone this repository to your local machine:
 
 ~~~sh
-git clone https://github.com/SkyrunnerOO7/CICD_Kubernetes_Cluster_using_Jenkins.git
+git clone https://github.com/DIK-SHITA08/CICD_Kubernetes_Cluster_using_Jenkins.git
 ~~~
 
 2. Build the Java application using Maven:
